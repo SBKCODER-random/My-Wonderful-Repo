@@ -1,3 +1,3 @@
 # First git repo
 
-A wonderful repo that will surely stand the tests of times
+A wonderful repo that will surely stand the tests of time
